@@ -3,7 +3,7 @@ Projeto Bootcamp DIO Unimed-BH: Refinando um Projeto Conceitual de Banco de Dado
 
 ### Escopo do Projeto
 
-Este projeto tem por objetivo realizar na prática a construção de um modelo de bases de dados relacionais expandido (EER), considerando para isso o contexto de um e-commerce, no qual estão relacionadas entidades como Clientes, Pedidos, Produtos, Fornecedores, Estoque, entre outros.
+Este projeto tem por objetivo realizar na prática a construção de um modelo de bases de dados relacionais estendido (EER), considerando para isso o contexto de um e-commerce, no qual estão relacionadas entidades como Clientes, Pedidos, Produtos, Fornecedores, Estoque, entre outros.
 
 **Narrativa - Produto**
 
